@@ -1,7 +1,7 @@
 // Iteration 1: Names and Input
-var hacker1 = 'Jxnndy';
+var hacker1 = 'XXXX';
 console.log("The driver's name is "+hacker1);
-var hacker2='John';
+var hacker2='YYYY';
 console.log('The navigator\'s name is '+hacker2);
 
 
